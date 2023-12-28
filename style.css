@@ -112,8 +112,8 @@ img {
     float: left;
     }
 
-    .brand h3 {
-      margin-left: 20px;
+    .brand {
+      margin-left: 50px;
       color: green;
       font-size: 50px;
       text-shadow: 4px 4px 5px black;
