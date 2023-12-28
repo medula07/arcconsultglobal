@@ -112,6 +112,15 @@ img {
     float: left;
     }
 
+    .nav-brand h3 {
+      animation-name: grow;
+      animation-duration: 2s;
+      animation-fill-mode: both;
+      color: green;
+      font-size: 50px;
+      text-shadow: 4px 4px 5px black;
+    }
+
 
 .mt-15 {
   margin-top: 15px; }
