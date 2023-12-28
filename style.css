@@ -112,10 +112,8 @@ img {
     float: left;
     }
 
-    .nav-brand h3 {
-      animation-name: grow;
-      animation-duration: 2s;
-      animation-fill-mode: both;
+    .brand h3 {
+      margin-left: 20px;
       color: green;
       font-size: 50px;
       text-shadow: 4px 4px 5px black;
