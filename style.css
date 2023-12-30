@@ -106,7 +106,7 @@ img {
   .logo-container .logo {
     overflow: hidden;
     border-radius: 50%;
-    border: 1px solid green;
+    border: 2px solid green;
     display: inline-block;
     padding: 5px, 5px, 5px 5px;
     width: 60px; 
