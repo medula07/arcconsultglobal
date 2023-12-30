@@ -100,7 +100,7 @@ img {
   .logo-container {
     left: 10px;
     position:absolute;
-    top: 12px;
+    top: 10px;
      z-index: 10;
     }
   .logo-container .logo {
@@ -115,7 +115,7 @@ img {
     }
 
     .brand {
-      margin: 30px;
+      margin-left: 50px;
       color: green;
       font-size: 50px;
       text-shadow: 4px 4px 5px black;
